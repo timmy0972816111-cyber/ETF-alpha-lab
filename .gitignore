@@ -1,0 +1,94 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# =========================
+# Virtual environment
+# =========================
+.venv/
+venv/
+env/
+
+# =========================
+# Jupyter
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# Environment / secrets
+# =========================
+.env
+.env.*
+secrets.json
+*.key
+*.pem
+
+# =========================
+# VS Code / IDE
+# =========================
+.vscode/
+.idea/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Build / package artifacts
+# =========================
+build/
+dist/
+*.egg-info/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Local generated file lists
+# =========================
+project_tree.txt
+clean_project_files.txt
+
+# =========================
+# Local temp files
+# =========================
+price.csv
+
+# =========================
+# Raw / intermediate / debug data
+# =========================
+data/raw/
+data/interim/
+
+# =========================
+# Keep processed data for GitHub portfolio
+# =========================
+!data/processed/
+!data/processed/**
+
+# =========================
+# Strategy outputs
+# Ignore all strategy experiment outputs by default
+# =========================
+data/strategy/*
+
+# Keep selected strategy outputs for GitHub portfolio
+!data/strategy/
+!data/strategy/strategy_trade_summary.csv
+!data/strategy/strategy_basket_summary.csv
+!data/strategy/high_dividend_core_trades.csv
+!data/strategy/high_dividend_core_daily_portfolio_v2.csv
+!data/strategy/high_dividend_core_rebalance_log_v2.csv
+
+# =========================
+# Optional local notebook checkpoints / exports
+# =========================
+*.nbconvert.ipynb

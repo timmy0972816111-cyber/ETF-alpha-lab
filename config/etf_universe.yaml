@@ -1,0 +1,36 @@
+etfs:
+  - symbol: "0050"
+    name: "元大台灣50"
+    category: "large_cap"
+
+  - symbol: "006208"
+    name: "富邦台50"
+    category: "large_cap"
+
+  - symbol: "0056"
+    name: "元大高股息"
+    category: "high_dividend"
+
+  - symbol: "00878"
+    name: "國泰永續高股息"
+    category: "high_dividend"
+
+  - symbol: "00919"
+    name: "群益台灣精選高息"
+    category: "high_dividend"
+
+  - symbol: "00881"
+    name: "國泰台灣5G+"
+    category: "tech"
+
+  - symbol: "00935"
+    name: "野村臺灣新科技50"
+    category: "tech"
+
+  - symbol: "00631L"
+    name: "元大台灣50正2"
+    category: "leveraged"
+
+  - symbol: "00632R"
+    name: "元大台灣50反1"
+    category: "inverse"

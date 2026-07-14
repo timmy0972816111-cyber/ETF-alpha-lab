@@ -1,0 +1,11 @@
+﻿symbol,ex_date,reason,ex_idx,panel_len
+00713,2026-06-18,ex_date_after_panel_end,,
+00878,2026-05-19,ex_date_after_panel_end,,
+00919,2026-06-16,ex_date_after_panel_end,,
+00929,2023-07-19,insufficient_window,32.0,717.0
+00929,2023-08-17,insufficient_window,52.0,717.0
+00929,2026-05-20,ex_date_after_panel_end,,
+00929,2026-06-17,ex_date_after_panel_end,,
+00939,2026-06-02,ex_date_after_panel_end,,
+00940,2026-05-07,insufficient_window,503.0,511.0
+00940,2026-06-09,ex_date_after_panel_end,,
