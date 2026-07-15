@@ -1,3 +1,10 @@
+## Project Highlights
+
+- Built a Taiwan ETF ex-dividend event study framework covering price, volume, NAV premium/discount, and dividend event data.
+- Developed a pre-dividend momentum strategy that enters before ex-dividend dates and exits before Day 0 to avoid price adjustment risk.
+- Implemented portfolio-level backtesting with overlapping event allocation, transaction costs, rebalancing, placebo tests, and market filters.
+- Research focus: translating Taiwan ETF market microstructure observations into testable trading strategies.
+
 # ETF Alpha Lab
 
 **台灣 ETF 除息事件研究與除息前追息動能策略開發**
